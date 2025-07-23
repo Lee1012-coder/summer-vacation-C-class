@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "summer vacation C class", "summer vacation C class\summer vacation C class.vcxproj", "{9711160E-9101-4D2A-AB18-9A19BA4E00FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9711160E-9101-4D2A-AB18-9A19BA4E00FD}.Debug|x64.ActiveCfg = Debug|x64
+		{9711160E-9101-4D2A-AB18-9A19BA4E00FD}.Debug|x64.Build.0 = Debug|x64
+		{9711160E-9101-4D2A-AB18-9A19BA4E00FD}.Debug|x86.ActiveCfg = Debug|Win32
+		{9711160E-9101-4D2A-AB18-9A19BA4E00FD}.Debug|x86.Build.0 = Debug|Win32
+		{9711160E-9101-4D2A-AB18-9A19BA4E00FD}.Release|x64.ActiveCfg = Release|x64
+		{9711160E-9101-4D2A-AB18-9A19BA4E00FD}.Release|x64.Build.0 = Release|x64
+		{9711160E-9101-4D2A-AB18-9A19BA4E00FD}.Release|x86.ActiveCfg = Release|Win32
+		{9711160E-9101-4D2A-AB18-9A19BA4E00FD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B602275-E945-4953-B607-305308F60C25}
+	EndGlobalSection
+EndGlobal
