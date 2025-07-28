@@ -1,0 +1,12 @@
+#include <stdio.h>
+int main(void)
+{
+	printf("Hello World!\n");
+	printf("떡볶이 튀김 순대\n");
+	printf("강아지\t");
+	printf("고양이\t");
+	printf("토끼\n");
+	printf("dogdogdog\tcat\trabbit\t");
+	printf("강아지는\"멍멍\"고양이는\"야옹\"토끼는 몰라");
+	return 0;
+}
