@@ -1,16 +1,12 @@
 #include <stdio.h>
-int main(void)
+main(void)
 {
-	int three = 3;
-	//자료형 변수명=값;
-	/*
-	* 변수를 저장하는 다양한 방법
-	1.자료형 변수명=값;
-
-	2자효형 면수명2;
-	변수명2=값;
-
-	3.변수명3=값3;  X
-	*/
+	unsigned int max_number = 2200000000;
+	printf("%u\n", max_number);
+	
+	int num1 = 1;
+	printf(" %zu", sizeof(num1));
+	printf("%zu", sizeof(100));
+	printf("%zu", sizeof(3.14));
 	return 0;
 }

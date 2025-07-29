@@ -1,15 +1,19 @@
 #include <stdio.h>
 int main(void)
 {
-	printf("\t\tA\n");
-	printf("\tB\t\tC\n");
-	printf("D\t\tE\t\tF\n");
-	printf("\G\t\tH\n");
-	printf("\t\tI");
-	//오늘 배운 내용 정리-(한줄주석)
-	/*
-	여러줄주석
-	
-	*/
-		return 0;
+	int number1 = 1;
+
+	//printf(number1);출력안됨
+	printf("번호 : %d\n 나이 : %d\n", number1, number1);
+	//번호:1
+
+	//2*3=6
+	//조건: 변수를 3개 선언해서
+	//힌트: 곱하기는 *를 사용한다.
+	int num1, num2, result;
+	num1 = 2;
+		num2 = 3;
+		result = num1 * num2;
+		printf("%d*%d=%d", num1, num2, result);
+return 0;
 }
