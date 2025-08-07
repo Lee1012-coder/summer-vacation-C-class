@@ -108,10 +108,28 @@
     <ClCompile Include="x64\Debug\Day9\while문.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="x64\Debug\Day9\dowhale문.c">
+    <ClCompile Include="x64\Debug\Day9\dowhile문.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="x64\Debug\Day9\for문.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="x64\Debug\Day10\break문.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="x64\Debug\Day10\continue문.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="x64\Debug\Day10\중첩for문.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="x64\Debug\Day10\별찍기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="x64\Debug\Day10\난수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="x64\Debug\Day10\벼열.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
